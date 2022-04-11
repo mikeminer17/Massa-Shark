@@ -77,7 +77,7 @@ done
 # Texts
 if [ "$language" = "RU" ]; then
 	t_ni1="\nID ноди:                ${C_LGn}%s${RES}"
-	t_ni2="Версія ноды:            ${C_LGn}%s${RES}\n"
+	t_ni2="Версія ноди:            ${C_LGn}%s${RES}\n"
 	
 	t_ni3="Поточний цикл:           ${C_LGn}%d${RES}"
 	#t_ni4="Запланировано слотов:   ${C_LGn}%d${RES}"
